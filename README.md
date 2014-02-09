@@ -13,3 +13,4 @@ C:\Users\zeekzilla\AppData\Roaming\Sublime Text 3\Packages\Elephant-Theme
 
 2.go to Preferences > Color Scheme > Elephant-Theme > [pick your color!]
 
+
