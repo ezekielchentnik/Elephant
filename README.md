@@ -3,26 +3,32 @@ Elephant Theme
 
 Custom Syntax & UI theme for Sublime Text 2 and Sublime Text 3
 
-Usage:
 
-1. Clone the Elephant Theme to your project folder 
+Installation
+------------
+Compatible with both Sublime Text 2 and 3.
 
-2. Copy the Elephant Theme folder to [your path]\[sublime text install folder]\Packages
+### Git ###
+If you are a git user, you can install the theme and keep up to date by cloning the repo directly into your `Packages` directory.
 
-3. go to Preferences > Color Scheme > Elephant Theme > [choose color]
+> You can locate your Sublime Text `Packages` directory by using the
+> menu: `Preferences -> Browse Packages...`
 
-example:
+While inside the Packages directory, clone the theme repository with the command:
 
-OSX
-============
-C:\Users\you\AppData\Roaming\Sublime Text 3\Packages\Elephant-Theme
+    git clone https://github.com/ezekielchentnik/elephant-theme.git
+    
 
-windows
-============
-C:\Users\you\AppData\Roaming\Sublime Text 3\Packages\Elephant-Theme
+Activating the Theme
+--------------------
 
+Open your User Settings Preferences file: `Preferences -> Settings - User`  
+Add (or update) the theme entry line:
 
+	"color_scheme": "Packages/Elephant/Elephant.tmTheme",
+	"theme": "Elephant.sublime-theme"
 
+Or
 
-
-
+	"color_scheme": "Packages/Elephant/ElephantBlack.tmTheme",
+	"theme": "ElephantBlack.sublime-theme"
