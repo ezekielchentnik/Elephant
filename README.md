@@ -16,8 +16,10 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 While inside the Packages directory, clone the theme repository with the command:
 
-    git clone https://github.com/ezekielchentnik/elephant-theme.git
-    
+    git clone https://github.com/ezekielchentnik/elephant-theme.git "Elephant"
+
+> "Elephant" is important.
+
 
 Activating the Theme
 --------------------
@@ -30,5 +32,5 @@ Add (or update) the theme entry line:
 
 Or
 
-	"color_scheme": "Packages/Elephant/ElephantBlack.tmTheme",
-	"theme": "ElephantBlack.sublime-theme"
+	"color_scheme": "Packages/Elephant/Elephant Black.tmTheme",
+	"theme": "Elephant Black.sublime-theme"
