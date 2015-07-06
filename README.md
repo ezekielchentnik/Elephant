@@ -1,7 +1,17 @@
 Elephant Theme
 ==============
 
-Custom Syntax & UI theme for Sublime Text 2 and Sublime Text 3
+Custom Dark Syntax & UI themes for Sublime Text 2 and Sublime Text 3
+
+
+Elephant
+------------
+![Elephant screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant.png "Elephant screenshot")
+
+
+Elephant Black
+------------
+![Elephant Black screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant-black.png "Elephant Black screenshot")
 
 
 Installation
