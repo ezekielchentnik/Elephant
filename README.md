@@ -1,7 +1,7 @@
 Elephant Theme
 ==============
 
-Custom Dark Syntax & UI themes for Sublime Text 2 and Sublime Text 3
+Elephant is a dark syntax & UI theme for Sublime Text.  It was designed to be distraction free, flat where it makes sense, and super minimal without going to far.  There's also a matching iTerm/Terminal theme.  It comes in two flavors, default and black.  Default uses very dark blues that are very close to black, and are easy on the eyes.  Black is darker, super crisp, and vibrant for those that prefer.
 
 
 Elephant
@@ -12,6 +12,10 @@ Original blue/black.
 ![Elephant screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant.png "Elephant screenshot")
 
 ![Elephant panels screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant-panels.png "Elephant panels screenshot")
+
+![Elephant markdown screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant-markdown.png "Elephant markdown screenshot")
+
+![Elephant vertical screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant-vertical.png "Elephant vertical screenshot")
 
 Elephant Black
 ------------
@@ -51,3 +55,5 @@ Or
 
 	"color_scheme": "Packages/Elephant/Elephant Black.tmTheme",
 	"theme": "Elephant Black.sublime-theme"
+
+
