@@ -6,11 +6,18 @@ Custom Dark Syntax & UI themes for Sublime Text 2 and Sublime Text 3
 
 Elephant
 ------------
+
+Original blue/black.
+
 ![Elephant screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant.png "Elephant screenshot")
 
+![Elephant panels screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant-panels.png "Elephant panels screenshot")
 
 Elephant Black
 ------------
+
+A darker version with crisper blacks
+
 ![Elephant Black screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant-black.png "Elephant Black screenshot")
 
 
