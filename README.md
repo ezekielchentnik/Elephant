@@ -16,7 +16,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 While inside the Packages directory, clone the theme repository with the command:
 
-    git clone https://github.com/ezekielchentnik/elephant-theme.git "Elephant"
+    git clone https://github.com/ezekielchentnik/Elephant.git "Elephant"
 
 > "Elephant" is important.
 
