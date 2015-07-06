@@ -1,16 +1,28 @@
-elephant-theme
+Elephant Theme
 ==============
 
-Custom UI themes for Sublime Text 2 and Sublime Text 3
+Custom Syntax & UI theme for Sublime Text 2 and Sublime Text 3
 
 Usage:
 
-1.Copy the Elephant-Theme folder to [your path]\[sublime text install folder]\Packages
+1. Clone the Elephant Theme to your project folder 
 
-example (windows): 
+2. Copy the Elephant Theme folder to [your path]\[sublime text install folder]\Packages
 
-C:\Users\zeekzilla\AppData\Roaming\Sublime Text 3\Packages\Elephant-Theme
+3. go to Preferences > Color Scheme > Elephant Theme > [choose color]
 
-2.go to Preferences > Color Scheme > Elephant-Theme > [pick your color!]
+example:
+
+OSX
+============
+C:\Users\you\AppData\Roaming\Sublime Text 3\Packages\Elephant-Theme
+
+windows
+============
+C:\Users\you\AppData\Roaming\Sublime Text 3\Packages\Elephant-Theme
+
+
+
+
 
 
