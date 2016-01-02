@@ -40,13 +40,8 @@ Elephant
 
 Original blue/black.
 
-![Elephant screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant.png "Elephant screenshot")
-
 ![Elephant panels screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant-panels.png "Elephant panels screenshot")
 
-![Elephant markdown screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant-markdown.png "Elephant markdown screenshot")
-
-![Elephant vertical screenshot](https://raw.githubusercontent.com/ezekielchentnik/Elephant/master/screenshot-elephant-vertical.png "Elephant vertical screenshot")
 
 Elephant Black
 ------------
